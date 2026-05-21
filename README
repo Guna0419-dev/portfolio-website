@@ -1,0 +1,46 @@
+# Gunasekar Portfolio
+
+A modern and responsive personal portfolio website built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+
+- Responsive Design
+- Modern UI/UX
+- Dark Mode
+- Smooth Animations
+- Skills Section
+- Projects Showcase
+- Contact Section
+- Social Media Integration
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
+- Google Fonts
+
+## 📂 Folder Structure
+
+```plaintext
+Guna_portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+├── guna_resume.pdf
+└── profile.jpg
+
+🌐 Live Demo
+https://yourusername.github.io/Guna_portfolio/
+
+📧 Contact
+
+Email: sivaguna3619@gmail.com
+LinkedIn: https://linkedin.com/in/guna-sekar-s-2585383ab
+Instagram: https://instagram.com/speed.x_kid_
+
+👨‍💻 Author
+
+Developed by Gunasekar
